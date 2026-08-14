@@ -58,7 +58,7 @@ Building tools around project planning, task management, time logging, capacity 
 
 ## How I Approach Software
 
-I like working on problems where the answer isn't simply *"build this exact feature."*
+I have experience working on problems where the answer isn't simply *"build this exact feature."*
 
 Give me the problem, the constraints and the people who understand the domain — I'll work through the architecture, prototype a solution, validate it with the people who will use it, and iterate from there.
 
@@ -76,6 +76,6 @@ I'm particularly interested in:
 
 ### Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mike-doerr/)) · [Portfolio](YOUR_PORTFOLIO_URL)
 
 > Building useful software for difficult real-world problems.
