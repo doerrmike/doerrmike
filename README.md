@@ -76,6 +76,6 @@ I'm particularly interested in:
 
 ### Let's Connect
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mike-doerr/)) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mike-doerr/) · [Portfolio](YOUR_PORTFOLIO_URL)
 
 > Building useful software for difficult real-world problems.
